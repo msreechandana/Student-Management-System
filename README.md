@@ -1,0 +1,2 @@
+A web-based application that allows users to enter and store student details, including marks for different subjects, and calculates their internal marks. It also provides features for verifying the entered data,
+updating notes and comments, and displaying analytics such as the number of students with low marks and a list of slow learners. The UI is styled with CSS and is responsive with a menu bar for easy navigation.
